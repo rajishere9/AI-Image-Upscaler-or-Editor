@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Upscaler",
+  "description": "A powerful and intuitive web application that uses Google's Gemini models to upscale and enhance images. Upload an image, provide a prompt, and let the AI generate a higher-resolution, more detailed version.",
+  "requestFramePermissions": []
+}
